@@ -1,0 +1,12 @@
+﻿  D3DXSDK.cpp
+  Functions.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Main.cpp
+  Generating Code...
+  Wolftu.vcxproj -> C:\Users\nefes\source\repos\Wolftu Private C++\x64\Release\Wolftu.exe
